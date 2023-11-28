@@ -4,3 +4,9 @@ dotabuff_tom
 opendota_tom
 stratz_tom
 swe-python-learning-plan
+
+*.db
+playerdata
+*
+!/**/
+!*.*
